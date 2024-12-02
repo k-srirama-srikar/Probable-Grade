@@ -37,7 +37,14 @@ mean_val = 65 # the mean here
 no_ppl = 89 # the number of students attending the course
 ```
 Run after changing these lines and you'll see the output in a file titled `std_devs.txt`, which has about 25 cases in two different algorithms.
-Go through it to get a general idea.
+Go through it to get a general idea. \
+The output is of this fashion (this is an output for the example above)
+```
+Case:1
+Mean: 65.06460780598712
+Standard Deviation: 19.346811210700444
+{'S': 96.92223849765573, 'A': 81.44478952909537, 'B': 67.32161734528405, 'C': 52.42457271304471, 'D': 39.84914542608942}
+```
 
 
 
