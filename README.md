@@ -2,7 +2,10 @@
 
 On a day during the examination week of my first year, I vividly remebmer not wanting to study for the exam the next day... I just wanted a grade that would be passable and not affect my score card much. So, I just wanted to know how much I needed to score, just a vague value so that I would get the grade I wanted. \
 We usually get the Min, Max, Average marks of the mid sem exams in the class comittee meeting and all I had was this little info and now I want to know how to compute the possible grades, given this info.
-And that's the story behind this repo. \
+And that's the story behind this repo. 
+
+> [!NOTE]
+> This is just a pastime project, so there isn't any proper documentation for the code written.
 
 ## How does it work?
 Well, it's just some simple random algorithm I just made up, which might not cover up great details or the corner cases, but presents you with a vague idea of the marks needed. Also, I utilised `numpy`'s random triangular distribution to generate the grades as well.
